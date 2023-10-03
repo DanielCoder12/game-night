@@ -1,0 +1,6 @@
+/* BASIC STYLES HERE */
+.Img-Display {
+    height: 10vh;
+    width: 100%;
+    object-fit: cover;
+}
